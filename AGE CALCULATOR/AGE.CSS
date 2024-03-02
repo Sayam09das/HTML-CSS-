@@ -1,0 +1,48 @@
+*{
+    background-image: url("https://coolbackgrounds.io/images/backgrounds/white/white-unsplash-9d0375d2.jpg");    
+}
+#image{
+    width: 500px;
+    height: 200px;
+}
+.card {
+    background-color: skyblue;
+    background-image: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 500px;
+    margin-top: 5%;
+    justify-content: center;
+    align-items: center;
+}
+
+.card input[type="number"] {
+    width: 90px;
+    padding: 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+    background-image: none;
+}
+
+#cal_age {
+    background-color: wheat;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    background-image: none;
+}
+#result1{
+    background-image: none;
+}
+#result2{
+    background-image: none;
+}
+button:hover {
+    background-color: white;
+    background-image: none;
+
+}
