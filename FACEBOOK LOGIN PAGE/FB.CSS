@@ -1,0 +1,75 @@
+body {
+    background:#E9ECF3;
+}
+#a1{
+    margin-top: -25px;
+    margin-left: -10px;
+    margin-right: -10px;
+    background-color: #4C65A4;
+    position: absolute;
+    width: 100%;
+    height: 100px;
+}
+#a2{
+    color: white;
+    font-family: 'Merriweather', serif;
+    position: relative;
+    margin-top: 60px;
+    margin-left: 60px;
+
+}
+#a3{
+    margin-top: -100px;
+    margin-left: 65%;
+}
+#a4{
+    
+    text-size-adjust: 10px;
+    margin-top: 5px;
+    color: white;
+}
+#a5{
+    
+    color: black;
+}
+#a6{
+    
+    color:black;
+}
+#a7{
+    color:white;
+}
+a{
+    color: white;
+}
+a2{
+    color: white;
+}
+#a7{
+    border: solid #4C65A4;
+    background-color: blue;
+    width: 60px;
+    height: 30px;
+}
+#a8{
+    margin-left: 70%;
+    margin-top: -10%;
+}
+.a10{
+    position: absolute;
+    margin-left: 40px;
+    margin-top: 100px;
+}
+#write{
+    margin-left: 100px;
+    margin-top: 190px;
+} 
+#birthday{
+    margin-left: 70%;
+}
+#green{
+    width: 300px;
+    height: 50px;
+    color: white;
+    background-color: green;
+}
